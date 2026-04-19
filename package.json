@@ -1,0 +1,9 @@
+{
+  "name": "miroworld-project-20260419",
+  "version": "1.0.0",
+  "description": "Created by MiroWorld AI",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
